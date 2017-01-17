@@ -1,1 +1,1 @@
-# lab2
+# E-Bay Prototype
